@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Giovani Matos
+# 🧑🏽‍💻 Giovani Matos
 
 **`Desenvolvedor FullStack`**
 
