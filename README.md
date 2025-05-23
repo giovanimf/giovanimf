@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Com mais de cinco anos de experiência em PHP e WordPress, domino tecnologias como MySQL, Next.js, TypeScript, Tailwind, Prisma e MongoDB.Além de músico, gamer, geek eu sou um desenvolvedor apaixonado por tecnologia, sempre disposto a aprender e enfrentar novos desafios. 
+Sou Desenvolvedor FullStack com sólida experiência em Next.js, React, TypeScript, MongoDB, Tailwind CSS, PostgreSQL, Shadcn, PHP, WordPress e MySQL, atuando no desenvolvimento de sistemas web com foco em performance e escalabilidade. Tenho vivência com integração de APIs RESTful, manipulação de bancos de dados relacionais e não relacionais (MySQL/MongoDB), e aplicação de Clean Code, SOLID e padrões de projeto. Já atuei em ambientes colaborativos, utilizando Scrum/Kanban, e possuo inglês básico com leitura técnica ativa. Já fui responsável por tarefas que vão desde a criação de páginas a partir de layouts no Figma até manutenções complexas, como a limpeza e recuperação de sites hackeados em wordpress com mais de 5 anos de experiência. Nas horas vagas sou geek e músico haha.
 
 ---
 
