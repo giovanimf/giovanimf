@@ -130,7 +130,6 @@ Com mais de cinco anos de experiência em PHP e WordPress, domino tecnologias co
 />
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
