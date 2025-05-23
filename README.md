@@ -128,7 +128,7 @@ Com mais de cinco anos de experiência em PHP e WordPress, domino tecnologias co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
-
+<br/>
 ---
 
 ### 📊 Estatísticas
