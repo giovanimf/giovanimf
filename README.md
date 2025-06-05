@@ -128,19 +128,49 @@ Sou Desenvolvedor FullStack com sólida experiência em Next.js, React, TypeScri
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
-
 <br/><br/>
+
+---
+
+### 🚀 Projetos em destaque
+
+#### AmBarber
+
+Micro-SaaS para barbearias, com autenticação, seleção de serviços e agendamento online.  
+🔗 [ambarber.vercel.app](https://ambarber.vercel.app)  
+**Tech:** Next.js 15, Tailwind v4, Shadcn UI, TypeScript, PostgreSQL, Prisma, Vercel
+
+---
+
+#### Shagio
+
+Dashboard moderno criado para estudo, explorando o Shadcn UI e suas boas práticas.  
+🔗 [shagiopro-el1n.vercel.app](https://shagiopro-el1n.vercel.app)  
+**Tech:** Next.js 15, Tailwind v4, Shadcn UI, TypeScript
+
+---
+
+#### GoExplore
+
+Landing page de viagens com foco em responsividade e animações.  
+🔗 [GoExplore](https://lnkd.in/dTNXKa_e)  
+**Tech:** Next.js 15, Tailwind v4, Shadcn UI, TypeScript
+
+---
+
+#### Social Profile UI
+
+Clone de interface inspirada em LinkedIn e Facebook, responsiva e moderna.  
+🔗 [Página principal](https://lnkd.in/dHmm3dCN) | [Perfil](https://lnkd.in/dNSmAXvv)  
+**Tech:** Next.js 15, Tailwind v4, Shadcn UI, TypeScript
+
 ---
 
 ### 📊 Estatísticas
-
-<p>
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanimf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+/>
