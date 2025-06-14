@@ -131,8 +131,8 @@ Sou Desenvolvedor FullStack com sólida experiência em Next.js, React, TypeScri
 <br/><br/>
 
 ---
-
 ### 🚀 Projetos em destaque
+Esses são projetos envolvendo Nextjs / React
 
 #### AmBarber
 
@@ -146,7 +146,7 @@ Micro-SaaS para barbearias, com autenticação, seleção de serviços e agendam
 
 Dashboard moderno criado para estudo, explorando o Shadcn UI e suas boas práticas.  
 🔗 [shagiopro-el1n.vercel.app](https://shagiopro-el1n.vercel.app)  
-**Tech:** Next.js 15, Tailwind v4, Shadcn UI, TypeScript
+**Tech:** Next.js 15, Tailwind v4, Shadcn UI, TypeScript, Vercel
 
 ---
 
@@ -162,7 +162,7 @@ Landing page de viagens com foco em responsividade e animações.
 
 Clone de interface inspirada em LinkedIn e Facebook, responsiva e moderna.  
 🔗 [Página principal](https://lnkd.in/dHmm3dCN) | [Perfil](https://lnkd.in/dNSmAXvv)  
-**Tech:** Next.js 15, Tailwind v4, Shadcn UI, TypeScript
+**Tech:** Next.js 15, Tailwind v4, Shadcn UI, TypeScript, Vercel
 
 ---
 
