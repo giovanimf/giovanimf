@@ -39,7 +39,7 @@ Figma | Adobe Photoshop | Adobe XD
 ---
 
 ## 🤖 Inteligência Artificial
-GitHub Copilot | ChatGPT | Gemini | Builder.io | Windsurf | Lovable
+GitHub Copilot | ChatGPT | Gemini | Builder.io | Windsurf | Lovable | Claude | MCP | Antigravity | Codex
 
 ---
 
